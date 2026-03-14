@@ -1,0 +1,12 @@
+# Core
+jupyter
+notebook
+ipykernel
+
+# Data Science
+numpy
+pandas
+matplotlib
+
+# Utilidades
+requests

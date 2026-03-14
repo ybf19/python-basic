@@ -1,4 +1,3 @@
-@"
 # Python Basic - Aprendiendo Python 🐍
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
@@ -30,4 +29,3 @@ Este repositorio documenta mi viaje aprendiendo Python desde cero.
 
 ---
 ⭐ ¡Si te sirve, dale estrella!
-"@ | Out-File -FilePath README.md -Encoding utf8

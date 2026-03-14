@@ -1,4 +1,3 @@
-@"
 # Entornos virtuales
 venv/
 env/
@@ -35,4 +34,3 @@ build/
 Thumbs.db
 desktop.ini
 *.log
-"@ | Out-File -FilePath .gitignore -Encoding utf8
